@@ -12,8 +12,8 @@
 В ходе проекта было выполнено подключение к базе данных, сформирована и выгружена таблица с необходимыми данными, на основе которых были подготовены дашборды в Tableau и презентация с ответами на следующие вопросы:
 - Cколько взаимодействий пользователей с карточками происходит в системе с разбивкой по темам карточек?
 - Как много карточек генерируют источники с разными темами?
-- Как соотносятся темы карточек и темы источников?
-[Ссылка на дашборд](https://public.tableau.com/views/Book1_16660452635820/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- Как соотносятся темы карточек и темы источников?<br>
+[Ссылка на дашборд](https://public.tableau.com/views/Book1_16660452635820/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)<br>
 [Ссылка на презентацию](https://drive.google.com/file/d/14t78gsAVtYbcn_6hahmIfACvhdv8SaQu/view?usp=sharing)
 ## Навыки и инструменты:
 - Python
